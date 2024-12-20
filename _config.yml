@@ -21,7 +21,7 @@ repository               : "https://fly-orange.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my1.jpg"
   name             : "Chen Liu"
   pronouns         : # example: "she/her"  
   bio              : #""
